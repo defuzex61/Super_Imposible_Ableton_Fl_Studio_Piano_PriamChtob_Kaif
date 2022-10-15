@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.AssemblyInfo.cs
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\bin\Debug\net6.0\ableyon_fl.exe
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\bin\Debug\net6.0\ableyon_fl.deps.json
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\bin\Debug\net6.0\ableyon_fl.runtimeconfig.json
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\bin\Debug\net6.0\ableyon_fl.dll
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\bin\Debug\net6.0\ableyon_fl.pdb
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.dll
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\refint\ableyon_fl.dll
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.pdb
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ableyon_fl.genruntimeconfig.cache
+C:\Users\user\source\repos\ableyon_fl\ableyon_fl\obj\Debug\net6.0\ref\ableyon_fl.dll

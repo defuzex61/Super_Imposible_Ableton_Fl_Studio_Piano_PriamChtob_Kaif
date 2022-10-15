@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ableyon_fl/1.0.0": {
+        "runtime": {
+          "ableyon_fl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ableyon_fl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
